@@ -48,7 +48,7 @@ This is used to test blockquotes.
 > And a newline in a blockquote.  
 >> And a blockquote in a blockquote.  
 
-> And an unordered list in a blockquote!  
+>- And an unordered list in a blockquote!  
 > And an ordered list in a blockquote!  
 
 > 1. Item 1
