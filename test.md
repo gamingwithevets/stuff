@@ -10,7 +10,7 @@ This is an .md file to test how .md files function.
 
 ##### This is heading level 5.
 
-####### This is heading level 6.
+###### This is heading level 6.
 
 Also heading level 1, but using equal signs.
 ===============
