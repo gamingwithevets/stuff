@@ -64,4 +64,4 @@ Okay, that's enough. Back to normal text.
 Here's a picture. Stay tuned for Deltarune Unused Content, by the way!
 
 ![The DUC Main Menu.](https://media.discordapp.net/attachments/885798046460411925/913079524172922970/duc-beta.png?width=1164&height=655)
-Finally, here's a [link to my Discord server](https://discord.gg/S4GQg5fEHN)! Please join!
+Finally, here's a [link to my Discord server](https://gamingwithevets.github.io/redirector/discord.html)! Please join!
