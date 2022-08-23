@@ -1,5 +1,7 @@
 This is an .md file to test how .md files function.
 
+[Original file](https://gamingwithevets.github.io/stuff/test.md)
+
 # This is heading level 1.
 
 ## This is heading level 2.
@@ -61,7 +63,8 @@ Okay, that's enough. Back to normal text.
 + This is an unordered list, using a plus sign.
 * This is an unordered list, using an asterisk.
 
-Here's a picture. Stay tuned for Deltarune Unused Content, by the way!
+Here's a picture. Oh look, it's my avatar!
 
-![The DUC Main Menu.](https://media.discordapp.net/attachments/885798046460411925/913079524172922970/duc-beta.png?width=1164&height=655)
+![GWE logo](https://gamingwithevets.github.io/stuff/GWE.png)
+
 Finally, here's a [link to my Discord server](https://gamingwithevets.github.io/redirector/discord.html)! Please join!
