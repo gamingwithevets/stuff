@@ -1,7 +1,7 @@
 This is where I put all my super epic and totally very random stuff. Currently, I have:
 
 **Folders:**
-- [`sneky_tut`](https://gamingwithevets.github.io/stuff/sneky_tut) - Contains tutorials for Sneky. ~~Will delete when the Sneky website goes public.~~ Sneky tutorials are no longer made or addded here, so this is now just kept here for archival.
+- [`sneky_tut`](https://gamingwithevets.github.io/stuff/sneky_tut) - Contains tutorials for Sneky. ~~Will delete when the Sneky website goes public.~~ Sneky tutorials are no longer made or added here, so this is now just kept here for archival.
 
 **Files:**
 - [`GWE.png`](https://gamingwithevets.github.io/stuff/GWE.png) - It's my avatar! Yay! Don't you steal it though.
