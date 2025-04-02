@@ -14832,6 +14832,7 @@
 						setRolePromptError: "Mời điền mô tả",
 						settingDialogAsideAccountOptionLabel: "Thông tin tài khoản",
 						settingDialogAsideGeneralOptionLabel: "Cài đặt thông dụng",
+						settingDialogAsidePolicyOptionLabel: "Thỏa thuận dịch vụ",
 						settingsAppearance: "Bề ngoài",
 						settingsDarkTheme: "Chủ đề màu đêm",
 						settingsLightTheme: "Chủ đề màu nhạt",
