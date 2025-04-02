@@ -14881,7 +14881,7 @@
 							children: [(0, i.jsx)("span", {
 								role: "title",
 								children: "Tải lên tệp đính kèm (chỉ nhận dạng văn bản)"
-							}), "最多 50 个，每个 100 MB，支持各类文档和图片"]
+							}), "Tối đa 50 cái, mỗi cái 100 MB, hỗ trợ các loại tệp văn bản và hình ảnh"]
 						}),
 						uploadFileDeleteInvalidFilePrompt: "Mời xóa bỏ tệp bất thường rồi gửi lại",
 						uploadFileNotificationModalContent: () => (0, i.jsxs)(i.Fragment, {
