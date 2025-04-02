@@ -14619,7 +14619,7 @@
 							let {
 								file_usage_ratio: t
 							} = e;
-							return (0, i.jsxs)(i.Fragment, {
+							return (0, r.jsxs)(r.Fragment, {
 								children: ["Vượt quá giới hạn số từ, DeepSeek chỉ đọc xem được ", Math.max(1, Math.floor(t)), "% đầu"]
 							})
 						},
@@ -14732,7 +14732,7 @@
 							let {
 								renderRetryButton: t
 							} = e;
-							return (0, i.jsxs)(i.Fragment, {
+							return (0, r.jsxs)(r.Fragment, {
 								children: ["Tải thất bại,bạn có thể\xa0", t("thử tải lại")]
 							})
 						},
@@ -14754,7 +14754,7 @@
 								muteUntil: t,
 								renderContactUs: n
 							} = e;
-							return (0, i.jsxs)(i.Fragment, {
+							return (0, r.jsxs)(r.Fragment, {
 								children: ["Do vi phạm quy định sử dụng người dùng, tài khoản của bạn đã bị cấm nói đến ", t, ", nếu có câu hỏi mời", " ", n({
 									children: "liên hệ chúng tôi"
 								}), "."]
@@ -14823,7 +14823,7 @@
 							let {
 								renderRetryButton: t
 							} = e;
-							return (0, i.jsxs)(i.Fragment, {
+							return (0, r.jsxs)(r.Fragment, {
 								children: ["Tải thất bại, bạn có thể\xa0", t("tải lại")]
 							})
 						},
@@ -14877,26 +14877,26 @@
 						},
 						thinkNotSupportSearchTooltip: "Suy nghĩ sâu không hỗ trợ tìm kiếm trực tuyến",
 						untitledChat: "Cuộc đối thoại mới",
-						uploadFileButtonTooltip: () => (0, i.jsxs)(i.Fragment, {
-							children: [(0, i.jsx)("span", {
+						uploadFileButtonTooltip: () => (0, r.jsxs)(r.Fragment, {
+							children: [(0, r.jsx)("span", {
 								role: "title",
 								children: "Tải lên tệp đính kèm (chỉ nhận dạng văn bản)"
 							}), "Tối đa 50 cái, mỗi cái 100 MB, hỗ trợ các loại tệp văn bản và hình ảnh"]
 						}),
 						uploadFileDeleteInvalidFilePrompt: "Mời xóa bỏ tệp bất thường rồi gửi lại",
-						uploadFileNotificationModalContent: () => (0, i.jsxs)(i.Fragment, {
-							children: [(0, i.jsx)("p", {
+						uploadFileNotificationModalContent: () => (0, r.jsxs)(r.Fragment, {
+							children: [(0, r.jsx)("p", {
 								children: "Chức năng tải tập tin DeepSeek hoàn toàn mới đã trực tuyến!"
-							}), (0, i.jsxs)("li", {
-								children: [(0, i.jsx)("strong", {
+							}), (0, r.jsxs)("li", {
+								children: [(0, r.jsx)("strong", {
 									children: "Tính năng nổi bật:"
 								}), "Một lần nhấn xuất văn bản, đọc văn bản dễ dàng"]
-							}), (0, i.jsxs)("li", {
-								children: [(0, i.jsx)("strong", {
+							}), (0, r.jsxs)("li", {
+								children: [(0, r.jsx)("strong", {
 									children: "Tình huống đề xuất:"
 								}), "Có thể trích xuất chuẩn văn bản Trung, Anh văn từ sách, báo và văn bản điện tử thường"]
-							}), (0, i.jsxs)("li", {
-								children: [(0, i.jsx)("strong", {
+							}), (0, r.jsxs)("li", {
+								children: [(0, r.jsx)("strong", {
 									children: "Kiến nghị tối ưu hóa:"
 								}), "Tải lên tài liệu chứa nhiều hình ảnh, công thức ở định dạng PDF để có kết quả tốt nhất"]
 							})]
@@ -14923,8 +14923,8 @@
 						usageEnvUnsafeWarn: "Hoàn cảnh sử dụng hiện tại có khả năng rò rỉ dữ liệu và quyền riêng tư, để bảo đảm an toàn, kiến nghị bạn sử dụng sản phẩm chính thức của chúng tôi.",
 						viewConversationHistoryButton: "Nhấn để xem lịch sử đối thoại",
 						viewPolicyButton: "Xem",
-						wechatQrCodeDescription: () => (0, i.jsxs)(i.Fragment, {
-							children: ["Quét mã để thêm", (0, i.jsx)("br", {}), "WeChat DeepSeek chính thức"]
+						wechatQrCodeDescription: () => (0, r.jsxs)(r.Fragment, {
+							children: ["Quét mã để thêm", (0, r.jsx)("br", {}), "WeChat DeepSeek chính thức"]
 						}),
 						welcomeMessageChat: "Xin chào, tôi là trợ thủ đối thoại thông dụng DeepSeek V2.5, có vấn đề cứ hỏi tôi.",
 						welcomeMessageChatV2: "Tôi là DeepSeek, rất vui được gặp bạn!\n",
@@ -15809,13 +15809,13 @@
 														let n = 0 !== t;
 														switch (e.type) {
 															case "text":
-																return (0, r.jsxs)(i.Fragment, {
+																return (0, r.jsxs)(r.Fragment, {
 																	children: [n ? s : null, (0, r.jsx)("div", {
 																		children: e.label
 																	}, t)]
 																}, t);
 															case "button":
-																return (0, r.jsxs)(i.Fragment, {
+																return (0, r.jsxs)(r.Fragment, {
 																	children: [n ? s : null, (0, r.jsx)("button", {
 																		onClick: e.onClick,
 																		style: {
