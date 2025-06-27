@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Browser Judgment Zone</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background-color: #fffbe6;
+      color: #333;
+      text-align: center;
+      padding: 2rem;
+    }
+    .webKit-rage {
+      font-size: 3rem;
+      color: red;
+      font-weight: bold;
+      animation: shake 0.5s infinite alternate;
+    }
+
+    @keyframes shake {
+      from { transform: rotate(-2deg); }
+      to { transform: rotate(2deg); }
+    }
+  </style>
+</head>
+<body>
+  <div id="content">Thanks for visiting. Have a nice day!</div>
+
+  <script>
+    // Feature detection for WebKit browsers (especially Safari and iOS clones)
+    const isWebKit = !!window.WebKitPoint || 
+                     (!!window.safari && typeof window.safari.pushNotification === 'object');
+
+    if (isWebKit) {
+      const content = document.getElementById('content');
+      content.innerHTML = `
+        <div class="webKit-rage">
+	  YOU LITTLE JACKASS !!!<br>
+          HOW DARE YOU USE SAFARI !!!!!
+        </div>
+	<br>You will pay for that, son.
+      `;
+    }
+  </script>
+</body>
+</html>
+
